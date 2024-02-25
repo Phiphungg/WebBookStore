@@ -1,5 +1,6 @@
 # WebBookStore
 ServerPort: 8080
+Run as file HomeServlet.java in controller package
 
 mysql
 hostname/IP: 127.0.0.1
